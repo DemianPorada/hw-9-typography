@@ -1,0 +1,43 @@
+body{
+    font-family: 'Jost';
+    font-style: normal;
+    margin-left: 20px;
+}
+ul{
+    list-style: none;
+}
+.logp{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+}
+.Banner Text{
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 56px;
+}
+.Main-Heading{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+}
+.Heading{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+}
+.Subtitle{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24p;
+}
+.Headline{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20p;
+}
+.body{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20p;
+}
